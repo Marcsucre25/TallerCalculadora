@@ -1,2 +1,2 @@
 # TallerCalculadora
-Intgrantes: Males Paulina - Moreira Marcos
+Integrantes: Males Paulina - Moreira Marcos
